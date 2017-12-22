@@ -1,0 +1,23 @@
+{
+  "name": "pronoun-json",
+  "version": "1.0.1",
+  "description": "Pronoun list json",
+  "main": "output.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pronoun",
+    "list"
+  ],
+  "files": [
+  	"output.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapics/pronoun-json.git"
+  },
+  "homepage": "https://github.com/sapics/pronoun-json",
+  "author": "sapics",
+  "license": "MIT"
+}

@@ -1,6 +1,6 @@
 {
   "name": "pronoun-json",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Pronoun list json",
   "main": "output.js",
   "scripts": {
